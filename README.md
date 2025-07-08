@@ -28,9 +28,8 @@ I’m a Python coder who loves crafting clean websites with HTML & CSS — basic
 ---
 
 ### Wanna connect?  
-- 📫 Email: your.email@example.com  
-- 🌍 Portfolio: Coming soon!  
-- 👾 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📫 Email: royalsandesh11@gmail.com 
+- 👾 GitHub:(https://github.com/Sandesh011)
 
 ---
 
