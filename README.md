@@ -1,4 +1,4 @@
-# Hey there! I'm Royal Sandesh 👋
+# Hey there! I'm Sandesh Pandit 👋
 
 I’m a Python coder who loves crafting clean websites with HTML & CSS — basically making the web look and work great.  
 
